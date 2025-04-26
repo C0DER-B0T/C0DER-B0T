@@ -38,7 +38,7 @@ Currently focused on building projects, learning advanced concepts, and contribu
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/satyam-chandra-953857356/)
 - 📸 [X/Twitter](https://x.com/satyam_cha4w)
-- 🎥 [YouTube](www.youtube.com/@Kernelpanic-4code)
+- 🎥 [YouTube](https://www.youtube.com/@Kernelpanic-4code)
 
 
 ---
