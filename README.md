@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Satyam Chandra AKA C0DER-B0T !
 
-Welcome to my GitHub!  
+
 # 💫 About Me:
 I'm currently working on AI projects that mix research with real-world impact.<br>I'm looking to collaborate on open-source and innovative ML ideas.<br>I'm learning Generative AI and scalable ML systems.<br>Ask me about AI, ML, or turning data into decisions.<br>Fun fact: I break models just to rebuild them smarter.
 
