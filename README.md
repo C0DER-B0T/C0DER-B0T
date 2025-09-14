@@ -65,5 +65,20 @@
 <a href="https://auth.geeksforgeeks.org/user/chandrasn0g8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandrasn0g8" height="30" width="40" /></a>
 </p>
 
+## 🤝 Let's Collaborate & 💼 Hire Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Let's+Build+AI+Futures+Together;🤝+Open+for+Collaboration;💼+Available+for+Hiring+in+AI%2C+ML%2C+DS" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/📧%20Hire%20Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/🤝%20Let's%20Connect-00CED1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+
 
 
