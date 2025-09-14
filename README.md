@@ -1,18 +1,5 @@
 # 👋 Hello, I'm Satyam Chandra AKA C0DER-B0T !
 
-## 🤝 Let's Collaborate & 💼 Hire Me
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Let's+Build+AI+Futures+Together;🤝+Open+for+Collaboration;💼+Available+for+Hiring+in+AI%2C+ML%2C+DS" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/📧%20Hire%20Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/🤝%20Let's%20Connect-00CED1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=8A2BE2&width=1000&height=60&lines=A+passionate+AI%2FML+Engineer+%26+Data+Scientist+from+India)](https://git.io/typing-svg)
@@ -36,6 +23,22 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
+## 🤝 Let's Collaborate & 💼 Hire Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Let's+Build+AI+Futures+Together;🤝+Open+for+Collaboration;💼+Available+for+Hiring+in+AI%2C+ML%2C+DS" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/📧%20Hire%20Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/🤝%20Let's%20Connect-00CED1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=C0DER-B0T&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
