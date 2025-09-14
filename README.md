@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Satyam Chandra AKA C0DER-B0T !
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=8A2BE2&width=650&lines=A+passionate+AI%2FML+Engineer+%26+Data+Scientist+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=8A2BE2&width=1000&height=60&lines=A+passionate+AI%2FML+Engineer+%26+Data+Scientist+from+India)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I'm currently working on AI projects that mix research with real-world impact.<br>I'm looking to collaborate on open-source and innovative ML ideas.<br>I'm learning Generative AI and scalable ML systems.<br>Ask me about AI, ML, or turning data into decisions.<br>Fun fact: I break models just to rebuild them smarter.
