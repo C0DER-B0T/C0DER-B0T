@@ -1,5 +1,20 @@
 # 👋 Hello, I'm Satyam Chandra AKA C0DER-B0T !
 
+## 🤝 Let's Collaborate & 💼 Hire Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Let's+Build+AI+Futures+Together;🤝+Open+for+Collaboration;💼+Available+for+Hiring+in+AI%2C+ML%2C+DS" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/📧%20Hire%20Me-blueviolet?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/🤝%20Let's%20Connect-00CED1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=8A2BE2&width=1000&height=60&lines=A+passionate+AI%2FML+Engineer+%26+Data+Scientist+from+India)](https://git.io/typing-svg)
 
 # 💫 About Me  
