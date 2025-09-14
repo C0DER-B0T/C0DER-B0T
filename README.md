@@ -15,7 +15,7 @@ I'm currently working on AI projects that mix research with real-world impact.<b
 ![](https://github-readme-stats.vercel.app/api?username=C0DER-B0T&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=C0DER-B0T&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C0DER-B0T&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</center>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=C0DER-B0T&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
