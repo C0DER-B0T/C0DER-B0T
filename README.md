@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/satyam-chandra-953857356/">
     <img src="https://img.shields.io/badge/🤝%20Let's%20Connect-00CED1?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://satyamchandra-portfolio.vercel.app/">
+  <a href="https://satyamchandra-info.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
@@ -103,7 +103,7 @@
   <a href="https://www.linkedin.com/in/satyam-chandra-953857356/">
     <img src="https://img.shields.io/badge/🤝%20Let's%20Connect-00CED1?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://satyamchandra-portfolio.vercel.app/">
+  <a href="https://satyamchandra-info.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
