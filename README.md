@@ -43,6 +43,12 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://pages.razorpay.com/coffeeforsatyam" target="_blank">
+    <img src="coffee.svg" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
 
 # 📊 GitHub Stats:
 
@@ -108,6 +114,11 @@
 </p>
 
 
+<div align="center">
+  <a href="https://pages.razorpay.com/coffeeforsatyam" target="_blank">
+    <img src="coffee.svg" alt="Buy Me A Coffee" />
+  </a>
+</div>
 
 
 
