@@ -51,12 +51,11 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=c0der-b0t&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=c0der-b0t&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=c0der-b0t&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=C0DER-B0T&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=C0DER-B0T&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=C0DER-B0T&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
