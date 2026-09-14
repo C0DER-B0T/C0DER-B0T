@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=30&pause=1000&color=8A2BE2&width=1000&height=60&lines=A+passionate+AI%2FML+Engineer+%26+Data+Scientist+from+India)](https://git.io/typing-svg)
 
+
+
+<img alt="3D Contribution Calendar" src="github-metrics.svg">
+
 # 💫 About Me  
 
 🚀 I'm currently working on **AI projects** that blend cutting-edge research with real-world impact. <br>  
