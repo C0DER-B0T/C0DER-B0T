@@ -6,8 +6,6 @@
 
 
 
-<img alt="3D Contribution Calendar" src="github-metrics.svg">
-
 # 💫 About Me  
 
 🚀 I'm currently working on **AI projects** that blend cutting-edge research with real-world impact. <br>  
@@ -97,6 +95,9 @@
 <a href="https://auth.geeksforgeeks.org/user/chandrasn0g8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandrasn0g8" height="30" width="40" /></a>
 </p>
 <hr>
+
+<img alt="3D Contribution Calendar" src="github-metrics.svg">
+
 
 <p align="center">
   <a href="mailto:chandrasatyam4w@gmail.com">
