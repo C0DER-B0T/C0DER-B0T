@@ -53,6 +53,21 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="35%">
+      <img src="assets/Profile_Photo.png" alt="Satyam Chandra" width="280"/>
+    </td>
+    <td align="center" valign="middle" width="65%">
+      <img alt="3D Contribution Calendar" src="github-metrics.svg" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 <h2 align="center">⚙️ My Favorite Tools & Technologies</h2>
@@ -291,11 +306,11 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
   <summary><strong>📈 Activity Graph</strong></summary>
   <br/>
 
-[![Satyam GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=c0der-b0t&custom_title=C0DER-B0T%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=8A2BE2&area_color=0d1117&title_color=8A2BE2&area=true)](https://github.com/C0DER-B0T)
+[![Satyam GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=c0der-b0t&custom_title=C0DER-B0T%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=8A2BE2&area_color=0d1117&title_color=8A2BE2&area=true)](https://github.com/C0DER-B0T)
 
 </details>
 
-<details>
+<details open>
   <summary><strong>🟩 Contribution Heat Map</strong></summary>
   <br/>
   <a href="https://github.com/C0DER-B0T">
@@ -819,7 +834,7 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
 
 <div align="center">
   <p><b>Visitor Count</b></p>
-  <img src="https://profile-counter.glitch.me/{C0DER-B0T}/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=C0DER-B0T&color=blueviolet&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Count"/>
 </div>
 
 ---
