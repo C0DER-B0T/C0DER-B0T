@@ -302,11 +302,15 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=c0der-b0t&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" width="45%"/>
 </p>
 
-<details>
+<details open>
   <summary><strong>📈 Activity Graph</strong></summary>
   <br/>
 
-[![Satyam GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=c0der-b0t&custom_title=C0DER-B0T%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=8A2BE2&area_color=0d1117&title_color=8A2BE2&area=true)](https://github.com/C0DER-B0T)
+<p align="center">
+  <a href="https://github.com/C0DER-B0T">
+    <img src="assets/activity-graph.svg" alt="Satyam GitHub Activity Graph" width="100%"/>
+  </a>
+</p>
 
 </details>
 
