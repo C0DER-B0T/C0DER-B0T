@@ -1,5 +1,5 @@
 <!-- HEADER — WAVING BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:8A2BE2&height=200&section=header&text=C0DER-B0T&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Satyam%20Chandra%20%E2%80%A2%20AI%2FML%20Engineer%20%26%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:8A2BE2&height=200&section=header&text=C0DER-B0T&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Satyam+Chandra+%7C+AI%2FML+Engineer+and+Data+Scientist&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
 </td>
 <td align="center" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=c0der-b0t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=00F5FF&text_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=c0der-b0t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=00F5FF&text_color=ffffff" width="100%"/>
 
 </td>
 </tr>
@@ -270,10 +270,10 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
 
 <p align="center">
   <a href="https://github.com/C0DER-B0T">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0der-b0t&theme=radical"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0der-b0t&theme=radical"/>
   </a>
   <a href="https://github.com/C0DER-B0T">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0der-b0t&theme=radical&utcOffset=5.5"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0der-b0t&theme=radical&utcOffset=5.5"/>
   </a>
 </p>
 
@@ -284,7 +284,7 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0der-b0t&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" width="45%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=c0der-b0t&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" width="45%"/>
 </p>
 
 <details>
@@ -308,7 +308,9 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=C0DER-B0T&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <a href="https://github.com/C0DER-B0T">
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=c0der-b0t&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=1" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -393,7 +395,7 @@ Hey there! I'm **Satyam Chandra**, aka **C0DER-B0T** — a passionate **AI/ML En
     </td>
     <td align="center">
       <a href="https://developers.google.com/profile/badges/events/io/2026/registered">
-        <img src="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg" width="90" alt="Google IO 2026"/>
+        <img src="assets/google-io-2026.png" width="90" alt="Google IO 2026"/>
       </a>
       <br/><strong>Google I/O 2026</strong>
       <br/><em>Registered Participant</em>
