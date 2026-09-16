@@ -1,0 +1,266 @@
+[
+    {
+        "description": "Participated in a specialized workshop focused on modern AI-driven testing methodologies. Learned to build end-to-end automation workflows using KANE AI to streamline quality assurance and testing processes.",
+        "issuingOrganization": "GeeksforGeeks",
+        "skillsLearned": [
+            "Test Automation",
+            "Quality Assurance (QA)"
+        ],
+        "date": "",
+        "certificateName": "Zero to AI Tester",
+        "verificationLink": "",
+        "level": "Basic",
+        "createdAt": "2026-05-07 09:41:21.843000+00:00",
+        "order": 12,
+        "updatedAt": "2026-05-07 09:41:21.843000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1778146877/hafzsvqfhgbtdof4pmf2.jpg",
+        "id": "1MmNZM0B0uEhPeGHHSVd"
+    },
+    {
+        "description": "Successfully completed a 4-week professional internship program in Machine Learning. Developed hands-on expertise in implementing ML models and contributed to various technical tasks and projects under industry guidance.",
+        "issuingOrganization": "Kodbud (AICTE Approved)",
+        "skillsLearned": [
+            "Machine Learning",
+            "Python",
+            "AI",
+            "Data Modeling"
+        ],
+        "date": "April 2026",
+        "certificateName": "Machine Learning Internship Completion Certificate",
+        "verificationLink": "",
+        "level": "Medium",
+        "createdAt": "2026-04-12 17:59:51.111000+00:00",
+        "order": 11,
+        "updatedAt": "2026-04-12 17:59:51.111000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1776016777/vwtf19nu7odysswowjls.jpg",
+        "id": "6jIDTDvBg9ql2oA947SB"
+    },
+    {
+        "description": "Configuration and multi-file skills Skills vs. other Claude Code features haring skills Troubleshooting skills ,",
+        "issuingOrganization": "Anthropic",
+        "date": "March 2026",
+        "skillsLearned": [
+            "Claude Skills"
+        ],
+        "certificateName": "Introduction to agent skills",
+        "verificationLink": "http://verify.skilljar.com/c/jk6ewjo6uien",
+        "createdAt": "2026-03-18 19:55:45.455000+00:00",
+        "level": "Basic",
+        "order": 0,
+        "updatedAt": "2026-03-18 20:03:48.618000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1773863739/em9wy2lioho1r8y2jviw.png",
+        "id": "9W8WsOmWFRtMVYFYrRO0"
+    },
+    {
+        "description": "Completed the certificate course conducted by the Electronics & ICT Academy.",
+        "issuingOrganization": "E&ICT Academy, IIT Roorkee",
+        "skillsLearned": [
+            "Data Science",
+            "Artificial Intelligence",
+            "Data Analysis",
+            "Statistics"
+        ],
+        "date": "",
+        "certificateName": "Data Science and Artificial Intelligence Program",
+        "verificationLink": "",
+        "createdAt": "2026-01-21 15:54:40.182000+00:00",
+        "level": "Superior",
+        "order": 2,
+        "updatedAt": "2026-03-18 20:03:36.797000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1771355882/klfg59qipol7mikn0gor.jpg",
+        "id": "FcAJIhnI6avV9Fo6xDZe"
+    },
+    {
+        "description": "Participated in a 6-week long course on Machine Learning and Artificial Intelligence organized by IITG.ai club.",
+        "issuingOrganization": "AI Club, IIT Guwahati",
+        "skillsLearned": [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Python",
+            "Data Modeling"
+        ],
+        "date": "",
+        "certificateName": "MachineLearning.AI 2025",
+        "verificationLink": "https://certificate.givemycertificate.com/c/f40b18d1-1d35-4db8-9805-8aaab924df50",
+        "createdAt": "2026-01-21 15:51:32.900000+00:00",
+        "level": "Advanced",
+        "order": 4,
+        "updatedAt": "2026-03-18 20:00:02.120000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1769010676/aov6vuljnmybj5hwcwid.jpg",
+        "id": "HcT9cA1AeW080g3jMbjA"
+    },
+    {
+        "description": "completed an entire bootcamp of 93 lessons Related to RAG, Agentic-AI, Claude-API, and use Tools with Claude, Guided by parent company of claude - Anthropic",
+        "issuingOrganization": "Anthropic",
+        "skillsLearned": [
+            "Model Context Protocol",
+            "AI Agents",
+            "Retrieval-Augmented Generation (RAG)",
+            "Prompt Engineering",
+            "Tool with Claude and API integration"
+        ],
+        "date": "",
+        "certificateName": "Claude with Google Vertex AI",
+        "verificationLink": "http://verify.skilljar.com/c/v79fyr2g4zws",
+        "level": "Advanced",
+        "createdAt": "2026-03-21 19:25:05.122000+00:00",
+        "order": 2,
+        "updatedAt": "2026-03-21 19:26:04.101000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1774121160/wlrtmw4jvyxdio72cg13.png",
+        "id": "NXSghNU4bFz4ui3rFDzL"
+    },
+    {
+        "description": "core computer science engineering principles with specialized applications in Data Science and Artificial Intelligence. Conducted by iHUB DivyaSampark at IIT Roorkee.",
+        "issuingOrganization": "IIT Roorkee ",
+        "skillsLearned": [
+            "Ai",
+            "ML",
+            "DL",
+            "Git",
+            "Linux",
+            "Cloud",
+            "Deployment"
+        ],
+        "date": "",
+        "certificateName": "Professional Certification Program in CSE [ AI ML ]",
+        "verificationLink": "https://tih.iitr.ac.in/certificate/intellipaat/IPTIH26050143.jpg",
+        "level": "Superior",
+        "createdAt": "2026-05-23 07:05:59.530000+00:00",
+        "order": 13,
+        "updatedAt": "2026-05-23 07:10:37.437000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1779520234/q0iymz3ggxnsev5f9ggk.jpg",
+        "id": "YrDIsCRgcVsgZbgcHJ2t"
+    },
+    {
+        "description": "Successfully completed the Git - Skill Up course, recognizing dedication and consistency in mastering version control.",
+        "issuingOrganization": "GeeksforGeeks",
+        "skillsLearned": [
+            "Git",
+            "Version Control",
+            "GitHub",
+            "CLI",
+            "Collaboration"
+        ],
+        "date": "",
+        "certificateName": "Git - Skill Up",
+        "verificationLink": "https://www.geeksforgeeks.org/certificate/cb41ed4442cb0180bde94fb41fae33ba",
+        "createdAt": "2026-01-23 07:42:27.956000+00:00",
+        "level": "Medium",
+        "order": 0,
+        "updatedAt": "2026-03-18 20:01:11.331000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1769154192/lwismvnf7mnr3qitthqk.jpg",
+        "id": "ahyO1ph3VWZjh39j1UL3"
+    },
+    {
+        "description": "Completed  Dedicated Gen-AI  course by LinkedIn",
+        "issuingOrganization": "LinkedIn",
+        "skillsLearned": [
+            "Generative A",
+            "Artificial Intelligence (AI",
+            "Generative AI Tools"
+        ],
+        "date": "",
+        "certificateName": "What is Gen-AI",
+        "verificationLink": "https://www.linkedin.com/learning/certificates/d5c5fbf77317f6f0f16f60683529d21b8955de62261bbd7f3240b80f806f27f6?trk=share_certificate",
+        "level": "Medium",
+        "createdAt": "2026-03-21 09:10:22.327000+00:00",
+        "order": 9,
+        "updatedAt": "2026-03-21 09:10:22.327000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1774084219/mauvmhmo0hbh8ycvif5v.png",
+        "id": "iDYilkkQahu2PZGyF5IO"
+    },
+    {
+        "description": "Mastered advanced MCP architectures, including sampling, roots, and secure transport protocols to build sophisticated, production-ready AI agent integrations and ecosystems.",
+        "issuingOrganization": "Anthropic",
+        "skillsLearned": [
+            "Sampling",
+            "Request-Result Message Patterns",
+            "Server-Sent Events (SSE) / StreamableHTTP",
+            "FastMCP Flags (json_response)",
+            "Connection Initialization (Handshake)",
+            "Stdio Transport"
+        ],
+        "date": "",
+        "certificateName": "Model Context Protocol: Advanced Topics",
+        "verificationLink": "http://verify.skilljar.com/c/jmzz8be554fk",
+        "createdAt": "2026-03-09 18:27:49.064000+00:00",
+        "level": "Advanced",
+        "order": 1,
+        "updatedAt": "2026-03-18 20:00:32.278000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1773080912/jsjrwugicljp1kptoh8v.png",
+        "id": "mpgns5DwFVILLaVtF6wT"
+    },
+    {
+        "description": "Completed Advanced Topics in Generative AI, Conducted by National Association of State Boards of Accountancy (NASBA) Continuing Professional Education Credit (CPE): 2 Recommended NASBA Field of Study: Information Technology and LinkedIn",
+        "skillsLearned": [
+            "Generative AI Tools",
+            "Artificial Intelligence (AI",
+            "Generative AI"
+        ],
+        "date": "",
+        "issuingOrganization": "LinkedIn, NASBA, CPE",
+        "certificateName": "Advanced Generative AI",
+        "verificationLink": "https://www.linkedin.com/learning/certificates/f65fe522e543c578a52b591b4650d21c387766f5d08c8fb223a8bf3817a756e0?trk=share_certificate",
+        "level": "Advanced",
+        "createdAt": "2026-03-21 09:08:19.659000+00:00",
+        "order": 3,
+        "updatedAt": "2026-03-21 09:10:57.888000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1774084081/x5u9wfssynwhswwflqms.png",
+        "id": "pymChqdmhb8yFVkgJ21j"
+    },
+    {
+        "description": "Successfully completed the course on Agentic AI - Skill Up.",
+        "issuingOrganization": "GeeksforGeeks",
+        "skillsLearned": [
+            "Agentic AI",
+            "Artificial Intelligence",
+            "LLMs"
+        ],
+        "date": "",
+        "certificateName": "Agentic AI - Skill Up",
+        "verificationLink": "https://media.geeksforgeeks.org/courses/certificates/0463efc985e56f517c7030da6a121f5a.pdf",
+        "createdAt": "2026-01-21 15:36:11.696000+00:00",
+        "level": "Medium",
+        "order": 1,
+        "updatedAt": "2026-03-18 20:00:21.595000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1769010097/iwojg4v5wxbhbvtvvqna.jpg",
+        "id": "qDx0rP0axtcDh5W2vfwC"
+    },
+    {
+        "description": "Completed Linux Training to achieve professional excellence.",
+        "issuingOrganization": "Intellipaat",
+        "skillsLearned": [
+            "Linux",
+            "System Administration",
+            "Shell Scripting",
+            "CLI"
+        ],
+        "date": "",
+        "certificateName": "Advance Linux Training",
+        "verificationLink": "https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEyNzQ3JnU9MzAxMzA4JmV4dD0x",
+        "createdAt": "2026-01-21 15:47:05.692000+00:00",
+        "level": "Advanced",
+        "order": 0,
+        "updatedAt": "2026-03-18 20:15:53.909000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1769010438/wpjjdfsgvcozuqaka3a2.jpg",
+        "id": "rbJJS1cW9jfYavEDnj0U"
+    },
+    {
+        "description": "Learned About Model Context Protocol, Setup and Background Processing, Completed one major Project",
+        "issuingOrganization": "Anthropic",
+        "skillsLearned": [
+            "MCP Server",
+            "MCP Client",
+            "Claude API"
+        ],
+        "date": "",
+        "certificateName": "Introduction to Model Context Protocol",
+        "verificationLink": "https://verify.skilljar.com/c/bruf9zm8jgkt",
+        "createdAt": "2026-03-04 18:46:46.774000+00:00",
+        "level": "Basic",
+        "order": 1,
+        "updatedAt": "2026-03-18 20:15:31.808000+00:00",
+        "certificateImage": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1772650002/t0muq9tzpctymmbxztsx.png",
+        "id": "t2rKojEkkKT8qKwWWWie"
+    }
+]

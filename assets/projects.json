@@ -1,0 +1,186 @@
+[
+    {
+        "githubLink": "",
+        "projectName": "Telegram Chatbot",
+        "date": "2024-12",
+        "order": 0,
+        "liveDemoLink": "",
+        "createdAt": "2026-01-21 12:44:29.932000+00:00",
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1768999538/hci7qlqti6pjm8xywjxi.jpg",
+        "level": "Basic",
+        "objective": "An automated conversational agent integrated with APIs to provide real-time data and intelligent responses.",
+        "detailedDescription": "Created an automated chatbot on the Telegram platform to handle user queries and execute various commands. The project integrates advanced NLP techniques and Retrieval-Augmented Generation (RAG) to provide instant, contextually accurate responses by fetching data from live APIs.",
+        "techStack": [
+            "Python",
+            "NLP",
+            "RAG",
+            "Telegram API"
+        ],
+        "updatedAt": "2026-03-08 16:28:53.639000+00:00",
+        "id": "8bQJtahagdpiaLLzJVnQ"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/CCTV-Video-Enhancer.git",
+        "projectName": "CCTV Footage Enhancer",
+        "date": "2026-01",
+        "tutorialLink": "",
+        "updatedAt": "2026-03-19 18:16:35.551000+00:00",
+        "liveDemoLink": "",
+        "createdAt": "2026-01-21 12:27:22.307000+00:00",
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1768998507/plcxojfunsblg9oizxpv.jpg",
+        "level": "Advanced",
+        "objective": "A video restoration tool leveraging deep learning to improve clarity and reduce noise in low-quality surveillance footage.",
+        "detailedDescription": "Built a specialized video enhancement tool using Long Short-Term Memory (LSTM) networks to process and improve low-quality CCTV footage. The application employs frame-by-frame restoration techniques to significantly reduce temporal noise and increase visual clarity, making it easier to analyze footage for security purposes.",
+        "techStack": [
+            "Python",
+            "LSTM",
+            "OpenCV"
+        ],
+        "order": 2,
+        "id": "9jLbcmLdRapR662UTTAS"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/ML-Intern",
+        "projectName": "ML-Intern",
+        "date": "",
+        "tutorialLink": "",
+        "updatedAt": "2026-05-31 17:57:02.924000+00:00",
+        "liveDemoLink": "",
+        "level": "Superior",
+        "createdAt": "2026-05-31 17:50:53.926000+00:00",
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1780249950/ujhjaysczlx6ecb4xhts.png",
+        "order": 8,
+        "detailedDescription": "ML-Intern is a curated repository documenting my machine learning learning journey through hands-on projects, experiments, and practical implementations.\n\nThe repository covers the complete machine learning workflow including data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and optimization. It contains implementations of popular machine learning algorithms, real-world datasets, and project-based learning exercises designed to strengthen both theoretical understanding and practical skills.\n\nThe goal of this repository is to build a strong foundation in Data Science, Machine Learning, and Artificial Intelligence while maintaining a structured collection of projects that demonstrate problem-solving, analytical thinking, and model development capabilities.\n\nKey Highlights:\n\u2022 Data Analysis and Visualization\n\u2022 Feature Engineering\n\u2022 Supervised Learning Models\n\u2022 Model Evaluation Techniques\n\u2022 Machine Learning Experiments\n\u2022 Practical Project Development\n\u2022 Continuous Learning Documentation",
+        "techStack": [
+            "Python",
+            "Machine learning",
+            "Agentic AI",
+            "Deep learning",
+            "Data visualization",
+            "RAG"
+        ],
+        "objective": "An ML intern that autonomously researches, writes, and ships good quality ML related code using the Hugging Face ecosystem, with deep access to docs, papers, datasets, and cloud compute.",
+        "id": "Pq680LY517vfPXoHyrjT"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/Simple-Bot-Streamlit.git",
+        "projectName": "Simple AI ChatBot",
+        "date": "2026-02",
+        "detailedDescription": "Creating simple AI Chatbot named brain buddy using Streamlit, Without HTML/ CSS/ JS , clean web based interface with Thinking Animations ",
+        "updatedAt": "2026-05-11 02:16:27.865000+00:00",
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1771786591/sdw1pvjcsglhvlvshkxx.jpg",
+        "level": "Basic",
+        "createdAt": "2026-02-22 19:00:12.169000+00:00",
+        "liveDemoLink": "https://brain-buddy.streamlit.app/",
+        "objective": "Simple Clean Web based AI chat-Bot",
+        "tutorialLink": "https://youtu.be/bQT3dmSa6bM",
+        "techStack": [
+            "Python",
+            "Gemini API",
+            "StreamLit"
+        ],
+        "order": 1,
+        "id": "VCPYGg2TPdb8NoYsIjGB"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/Sign-language-Translator.git",
+        "projectName": "Sign Language Recogniser",
+        "date": "2025-12",
+        "order": 1,
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1768999317/lroyfkdsxl3gvkuyfwh7.png",
+        "createdAt": "2026-01-21 12:42:16.728000+00:00",
+        "liveDemoLink": "",
+        "level": "Advanced",
+        "objective": "A real-time gesture-to-text translation system designed to bridge communication gaps for the hearing impaired.",
+        "detailedDescription": "Developed a real-time gesture recognition system that translates Indian sign language into Real Time Hindi speech to aid communication. By utilizing LSTM models to analyze the temporal sequences of hand landmarks captured via MediaPipe, the system achieves accurate detection of complex dynamic gestures.",
+        "techStack": [
+            "Python",
+            "LSTM",
+            "OpenCV",
+            "MediaPipe"
+        ],
+        "updatedAt": "2026-01-22 05:25:31.624000+00:00",
+        "id": "Xe9AD9kgFnbOSOiV23fN"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/TeLoad-a-CloudFetch-Bot.git",
+        "projectName": "TeLoad a CloudFetch Bot",
+        "date": "2026-01",
+        "order": 1,
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1769166299/ylptgmjtp9bq0mzq6fvj.png",
+        "level": "Medium",
+        "liveDemoLink": "",
+        "createdAt": "2026-01-23 11:07:45.846000+00:00",
+        "objective": "An automated cloud-to-cloud backup utility that fetches files from Telegram channels and archives them directly to specific Google Drive folders.",
+        "detailedDescription": "Developed a specialized automation tool to solve local storage constraints and provide data redundancy against Telegram channel deletions. The bot allows users to fetch files and folders from any public or private Telegram channel by specifying a custom date range. By integrating with the Google Drive API, it facilitates direct cloud-to-cloud transfers to a designated folder via its Drive ID, ensuring critical data is preserved in a secure, organized environment without consuming local system resources.",
+        "techStack": [
+            "Python",
+            "Telegram Bot AP",
+            "Google Drive API (v3)",
+            "OAuth 2.0",
+            "JSON",
+            "Linux/VPS"
+        ],
+        "updatedAt": "2026-01-23 11:07:45.846000+00:00",
+        "id": "Y9GsafPdB6C8XTxQnO2o"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/ip_grabber.git",
+        "projectName": "IP Grabber ",
+        "date": "2024-06",
+        "order": 0,
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1768999925/ihp0euzu8kxj1pads0zq.jpg",
+        "level": "Medium",
+        "liveDemoLink": "",
+        "createdAt": "2026-01-21 12:52:45.024000+00:00",
+        "objective": "A security auditing tool for logging and analyzing IP addresses to monitor network protocols",
+        "detailedDescription": "Developed a robust network utility tool for Linux environments focused on security auditing. The application is capable of logging and analyzing IP addresses to identify potential vulnerabilities, demonstrating a deep understanding of network protocols and server-side logging mechanisms.",
+        "techStack": [
+            "Python",
+            "Linux",
+            "BASH"
+        ],
+        "updatedAt": "2026-01-22 05:18:02.331000+00:00",
+        "id": "aJIg3csX3r9CSerwAdH5"
+    },
+    {
+        "githubLink": "https://github.com/C0DER-B0T/Number-Plate-Recognizer.git",
+        "projectName": "Number Plate Recogniser",
+        "date": "2025-10",
+        "updatedAt": "2026-01-22 05:25:39.781000+00:00",
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1768998302/bifk5u6j1gvl5kfdcrac.jpg",
+        "level": "Advanced",
+        "liveDemoLink": "",
+        "createdAt": "2026-01-21 12:25:27.589000+00:00",
+        "objective": "A high-accuracy vehicle license plate detection and automated data logging system optimized for Indian formats.",
+        "detailedDescription": "Developed a high-accuracy detection system utilizing the YOLOv8 architecture specifically trained for Indian vehicle license plates. The system achieved 100% functional accuracy in testing environments across diverse Indian number plate formats. I also implemented an automated data logging feature that extracts recognized alphanumeric characters and saves them to a structured CSV file for efficient record-keeping. ",
+        "techStack": [
+            "YOLOv8",
+            "Python",
+            "OpenCV",
+            "Pandas"
+        ],
+        "order": 1,
+        "id": "oLKGgjdo4vUGhcGm7HsK"
+    },
+    {
+        "githubLink": "",
+        "projectName": "JDSR Academy Official Web",
+        "date": "2024-01",
+        "updatedAt": "2026-03-08 16:29:01.930000+00:00",
+        "coverPhoto": "https://res.cloudinary.com/dkwnpfbh3/image/upload/v1768855920/nstkwsezvfafizqegtnk.png",
+        "createdAt": "2026-01-19 20:53:07.445000+00:00",
+        "liveDemoLink": "https://jdsracademy-two.vercel.app/",
+        "level": "Minor",
+        "order": 0,
+        "detailedDescription": "A comprehensive educational platform designed to streamline government job preparation for aspirants in the Uttar Pradesh and Uttarakhand regions. The web application features a responsive interface that integrates real-time news updates, academic resources, and community connectivity to enhance the student learning experience.",
+        "techStack": [
+            "React",
+            "HTML/CSS",
+            "Javascript/ TypeScript",
+            "Node.js"
+        ],
+        "objective": "create A Web App That Summarise The entire Coaching Center",
+        "id": "tj5Lww0avB1zhTxeboOm"
+    }
+]

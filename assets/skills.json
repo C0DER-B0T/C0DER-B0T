@@ -1,0 +1,376 @@
+[
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "0": "n",
+                "1": "8",
+                "confidence": 80,
+                "2": "n",
+                "name": "N8N"
+            },
+            {
+                "confidence": 80,
+                "name": "API"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.572000+00:00",
+        "order": 6,
+        "category": "Automation",
+        "id": "automation"
+    },
+    {
+        "createdAt": "2026-03-08 10:24:47.185000+00:00",
+        "skills": [
+            {
+                "confidence": 85,
+                "name": "Problem Solving"
+            },
+            {
+                "confidence": 84,
+                "name": "Active Hearing "
+            },
+            {
+                "confidence": 96,
+                "name": "Communication"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.572000+00:00",
+        "order": 9,
+        "category": "Soft Skills",
+        "id": "category-1772965487185"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "0": "D",
+                "1": "e",
+                "5": "s",
+                "2": "v",
+                "3": "O",
+                "4": "p",
+                "confidence": 88,
+                "name": "Firebase"
+            },
+            {
+                "0": "D",
+                "1": "e",
+                "5": "s",
+                "2": "v",
+                "3": "O",
+                "4": "p",
+                "confidence": 81,
+                "name": "Cloudinary"
+            },
+            {
+                "0": "D",
+                "1": "e",
+                "5": "s",
+                "2": "v",
+                "3": "O",
+                "4": "p",
+                "confidence": 51,
+                "name": "AWS"
+            },
+            {
+                "confidence": 74,
+                "name": "Oracle"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.571000+00:00",
+        "order": 3,
+        "category": "Cloud & DevOps",
+        "id": "cloud-&-devops"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "0": "M",
+                "1": "y",
+                "2": "S",
+                "3": "Q",
+                "4": "L",
+                "confidence": 79,
+                "name": "MongoDB"
+            },
+            {
+                "0": "M",
+                "1": "y",
+                "2": "S",
+                "3": "Q",
+                "4": "L",
+                "confidence": 74,
+                "name": "PostgreSQL"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.572000+00:00",
+        "order": 4,
+        "category": "Databases",
+        "id": "databases"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "10": "w",
+                "6": " ",
+                "5": "l",
+                "11": "o",
+                "name": "ANN/ CNN/ RNN",
+                "13": "k",
+                "0": "N",
+                "7": "N",
+                "9": "t",
+                "1": "e",
+                "2": "u",
+                "14": "s",
+                "8": "e",
+                "3": "r",
+                "4": "a",
+                "12": "r",
+                "confidence": 78
+            },
+            {
+                "10": "w",
+                "6": " ",
+                "5": "l",
+                "11": "o",
+                "name": "RAG",
+                "13": "k",
+                "0": "N",
+                "7": "N",
+                "9": "t",
+                "1": "e",
+                "2": "u",
+                "14": "s",
+                "8": "e",
+                "3": "r",
+                "4": "a",
+                "12": "r",
+                "confidence": 66
+            },
+            {
+                "10": "w",
+                "6": " ",
+                "5": "l",
+                "11": "o",
+                "name": "LSTM",
+                "13": "k",
+                "0": "N",
+                "7": "N",
+                "9": "t",
+                "1": "e",
+                "2": "u",
+                "14": "s",
+                "8": "e",
+                "3": "r",
+                "4": "a",
+                "12": "r",
+                "confidence": 75
+            },
+            {
+                "confidence": 80,
+                "name": "Transformers"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.571000+00:00",
+        "order": 2,
+        "category": "Deep Learning",
+        "id": "deep-learning"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "0": "P",
+                "1": "i",
+                "5": "l",
+                "2": "c",
+                "3": "k",
+                "4": "e",
+                "confidence": 78,
+                "name": "Pickel"
+            },
+            {
+                "confidence": 80,
+                "name": "Vercel"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.572000+00:00",
+        "order": 5,
+        "category": "Deployment",
+        "id": "deployment"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "10": "a",
+                "6": "t",
+                "5": "i",
+                "11": "r",
+                "name": "TensorFlow",
+                "0": ";",
+                "7": " ",
+                "9": "e",
+                "1": "S",
+                "2": "c",
+                "8": "L",
+                "3": "i",
+                "4": "k",
+                "12": "n",
+                "confidence": 80
+            },
+            {
+                "10": "a",
+                "6": "t",
+                "5": "i",
+                "11": "r",
+                "name": "Scikit-learn",
+                "0": ";",
+                "7": " ",
+                "9": "e",
+                "1": "S",
+                "2": "c",
+                "8": "L",
+                "3": "i",
+                "4": "k",
+                "12": "n",
+                "confidence": 75
+            },
+            {
+                "confidence": 69,
+                "name": "Keras"
+            },
+            {
+                "confidence": 80,
+                "name": "XGBoost"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.571000+00:00",
+        "order": 1,
+        "category": "Machine Learning",
+        "id": "machine-learning"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "0": "P",
+                "1": "y",
+                "5": "n",
+                "2": "t",
+                "6": "e",
+                "3": "h",
+                "4": "o",
+                "confidence": 88,
+                "name": "Python"
+            },
+            {
+                "0": "P",
+                "1": "y",
+                "5": "n",
+                "2": "t",
+                "3": "h",
+                "4": "o",
+                "confidence": 79,
+                "name": "C"
+            },
+            {
+                "0": "P",
+                "1": "y",
+                "5": "n",
+                "2": "t",
+                "3": "h",
+                "4": "o",
+                "confidence": 80,
+                "name": "BASH (Shell)"
+            },
+            {
+                "0": "P",
+                "1": "y",
+                "5": "n",
+                "2": "t",
+                "3": "h",
+                "4": "o",
+                "confidence": 80,
+                "name": "HTML/CSS"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.571000+00:00",
+        "order": 0,
+        "category": "Programming Languages",
+        "id": "programming-languages"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "10": "i",
+                "6": "i",
+                "5": "n",
+                "11": "o",
+                "name": "Streamlit",
+                "0": "C",
+                "7": "c",
+                "9": "t",
+                "1": "o",
+                "2": "m",
+                "8": "a",
+                "3": "m",
+                "4": "u",
+                "12": "n",
+                "confidence": 87
+            },
+            {
+                "10": "i",
+                "6": "i",
+                "5": "n",
+                "11": "o",
+                "name": "Reflex",
+                "0": "C",
+                "7": "c",
+                "9": "t",
+                "1": "o",
+                "2": "m",
+                "8": "a",
+                "3": "m",
+                "4": "u",
+                "12": "n",
+                "confidence": 46
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.572000+00:00",
+        "order": 7,
+        "category": "Web-Dev",
+        "id": "soft-skills"
+    },
+    {
+        "createdAt": "2026-01-20 06:57:23.366000+00:00",
+        "skills": [
+            {
+                "0": "G",
+                "1": "i",
+                "confidence": 95,
+                "2": "t",
+                "name": "git/GitHub"
+            },
+            {
+                "0": "V",
+                "1": "S",
+                "confidence": 57,
+                "name": "CI/CD"
+            },
+            {
+                "confidence": 80,
+                "name": "Linux"
+            }
+        ],
+        "updatedAt": "2026-03-09 19:46:42.572000+00:00",
+        "order": 8,
+        "category": "Tools & Others",
+        "id": "tools-&-others"
+    }
+]

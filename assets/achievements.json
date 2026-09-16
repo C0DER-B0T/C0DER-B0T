@@ -1,0 +1,212 @@
+[
+    {
+        "description": " joined early or tried out a badge ",
+        "badgeImage": "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=",
+        "link": "https://www.holopin.io/userbadge/cmn20d9wp0004jv04zb2t4at5",
+        "title": "Early Bird Pegasaurus",
+        "createdAt": "2026-03-22 17:12:48.527000+00:00",
+        "order": 15,
+        "updatedAt": "2026-03-22 17:12:48.527000+00:00",
+        "platform": "HOLOPIN",
+        "id": "4jTeIcKuLVcG1hsexNAY"
+    },
+    {
+        "description": "Joined GDG on Campus University of Petroleum and Energy Studies - Dehradun, India",
+        "badgeImage": "https://developers.google.com/static/profile/badges/community/gdg/chapter/badge.svg",
+        "link": "https://developers.google.com/profile/badges/community/gdg/chapter/member/gdg-on-campus-university-of-petroleum-and-energy-studies-dehradun-india",
+        "title": "GDG on Campus University of Petroleum and Energy Studies - Dehradun, India Member",
+        "createdAt": "2026-03-29 17:46:56.339000+00:00",
+        "order": 18,
+        "updatedAt": "2026-03-29 17:46:56.339000+00:00",
+        "platform": "Google ",
+        "id": "6T817DPOZE5XRjI3ZU8C"
+    },
+    {
+        "description": "Completed Azure Machine Learning workspace resources and assets\n",
+        "badgeImage": "https://learn.microsoft.com/training/achievements/explore-azure-machine-learning-workspace-resources-assets.svg",
+        "link": "Explore Azure Machine Learning workspace resources and assets",
+        "title": "Azure Machine Learning workspace",
+        "createdAt": "2026-03-24 09:28:56.361000+00:00",
+        "order": 2,
+        "updatedAt": "2026-03-24 17:45:47.026000+00:00",
+        "platform": "Microsoft, Azure",
+        "id": "817deCba1TZ3laUeQUtO"
+    },
+    {
+        "description": "Introduction to computer vision concepts",
+        "badgeImage": "https://learn.microsoft.com/training/achievements/analyze-images-computer-vision.svg",
+        "link": "https://learn.microsoft.com/api/achievements/share/en-us/SatyamChandra-3531/WV9Z54BN?sharingId=BA2881BB0E1EBB27",
+        "title": "Computer vision ",
+        "createdAt": "2026-03-24 10:37:33.237000+00:00",
+        "order": 10,
+        "updatedAt": "2026-03-24 10:37:33.237000+00:00",
+        "platform": "Microsoft",
+        "id": "8dwLWvGEiqYuFHtvzC4i"
+    },
+    {
+        "description": "You want it? You merge it.",
+        "badgeImage": "https://github.githubassets.com/assets/yolo-default-be0bbff04951.png",
+        "link": "https://github.com/users/C0DER-B0T/achievements/yolo",
+        "title": "YOLO",
+        "createdAt": "2026-03-08 12:22:33.083000+00:00",
+        "order": 14,
+        "updatedAt": "2026-03-08 12:22:33.083000+00:00",
+        "platform": "GitHub",
+        "id": "Cgj2Fts36n1FG8hkLtQZ"
+    },
+    {
+        "description": "opened pull requests that have been merged.",
+        "badgeImage": "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
+        "link": "https://github.com/users/C0DER-B0T/achievements/pull-shark",
+        "title": "Pull Shark",
+        "createdAt": "2026-03-08 12:20:56.443000+00:00",
+        "order": 4,
+        "updatedAt": "2026-03-08 12:20:56.443000+00:00",
+        "platform": "GitHub",
+        "id": "HCz0dPNJTVffejTbkFky"
+    },
+    {
+        "description": "Level up agent building skills with GEAR.",
+        "badgeImage": "https://developers.google.com/static/profile/badges/community/gear/badge.svg",
+        "link": "https://developers.google.com/profile/badges/community/gear",
+        "title": "Gemini Enterprise Agent Ready",
+        "createdAt": "2026-03-24 17:16:04.105000+00:00",
+        "order": 6,
+        "updatedAt": "2026-03-24 17:16:04.105000+00:00",
+        "platform": "Google",
+        "id": "UHwwkNVn5XIJWZNAOuoL"
+    },
+    {
+        "description": "Joined Google Cloud & NVIDIA Devloper community",
+        "badgeImage": "https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg",
+        "link": "https://developers.google.com/profile/badges/nvidia-developer",
+        "title": "Google Cloud & NVIDIA community member",
+        "createdAt": "2026-03-24 17:42:09.123000+00:00",
+        "order": 3,
+        "updatedAt": "2026-03-24 17:42:09.123000+00:00",
+        "platform": "Google, NVIDIA",
+        "id": "Ubh5cD4DqtFJFapyn7kk"
+    },
+    {
+        "description": "coauthored commits on merged pull requests.",
+        "badgeImage": "https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png",
+        "link": "https://github.com/users/C0DER-B0T/achievements/pair-extraordinaire",
+        "title": "Pair Extraordinaire",
+        "createdAt": "2026-03-21 06:16:13.001000+00:00",
+        "order": 12,
+        "updatedAt": "2026-03-21 06:16:13.001000+00:00",
+        "platform": "GitHub",
+        "id": "fGCThslekWd9t6Sx3Jst"
+    },
+    {
+        "description": "I joined a Google Developer Group on Campus",
+        "badgeImage": "https://developers.google.com/static/profile/badges/community/gdg/GDGoC/member/badge.svg",
+        "link": "https://developers.google.com/profile/badges/community/gdg/GDGoC/member",
+        "title": "Google Developer Group on Campus member",
+        "createdAt": "2026-03-29 17:44:16.920000+00:00",
+        "order": 16,
+        "updatedAt": "2026-03-29 17:44:16.920000+00:00",
+        "platform": "Google",
+        "id": "giN6r4pQZYFEWEuGB3bw"
+    },
+    {
+        "description": "Created a repository that has many stars.",
+        "badgeImage": "https://github.githubassets.com/assets/starstruck-default-b6610abad518.png",
+        "link": "https://github.com/users/C0DER-B0T/achievements/starstruck",
+        "title": "Starstruck",
+        "createdAt": "2026-03-21 19:59:24.524000+00:00",
+        "order": 7,
+        "updatedAt": "2026-03-21 19:59:24.524000+00:00",
+        "platform": "GitHub",
+        "id": "hmsprIeseCLi6DoWh0SR"
+    },
+    {
+        "description": "Chrome DevTools and inspected a website",
+        "badgeImage": "https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg",
+        "link": "https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user",
+        "title": "Chrome DevTools Admin",
+        "createdAt": "2026-03-24 16:50:35.861000+00:00",
+        "order": 11,
+        "updatedAt": "2026-03-24 16:50:35.861000+00:00",
+        "platform": "Chrome",
+        "id": "kVtdgczxSYhK1erqBh4n"
+    },
+    {
+        "description": "Gitty up!",
+        "badgeImage": "https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png",
+        "link": "https://github.com/users/C0DER-B0T/achievements/quickdraw",
+        "createdAt": "2026-03-08 12:22:45.081000+00:00",
+        "title": "Quickdraw",
+        "order": 9,
+        "updatedAt": "2026-03-08 12:23:34.737000+00:00",
+        "platform": "GitHub",
+        "id": "lGzD6GUW9IK04DD9gUj7"
+    },
+    {
+        "description": "Participated for Google I/O 2026 digital event",
+        "badgeImage": "https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg",
+        "link": "https://developers.google.com/profile/badges/events/io/2026/registered",
+        "title": "I/O 2026",
+        "createdAt": "2026-03-24 16:51:43.690000+00:00",
+        "order": 13,
+        "updatedAt": "2026-03-24 18:02:49.124000+00:00",
+        "platform": "Google",
+        "id": "q9ZSjrQMWqRE6Y7swW5Q"
+    },
+    {
+        "description": "Joined the Google Developer Program",
+        "badgeImage": "https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg",
+        "link": "https://developers.google.com/profile/badges/profile/created-profile",
+        "title": "Google Developer",
+        "createdAt": "2026-03-24 17:17:19.901000+00:00",
+        "order": 0,
+        "updatedAt": "2026-03-24 17:17:19.901000+00:00",
+        "platform": "Google",
+        "id": "uV0Oborjlskk4Xj4J4sX"
+    },
+    {
+        "description": "Train deep learning models in Azure Databricks",
+        "badgeImage": "https://learn.microsoft.com/training/achievements/deep-learning-azure-databricks.svg",
+        "link": "https://learn.microsoft.com/api/achievements/share/en-us/SatyamChandra-3531/AKNPHV37?sharingId=BA2881BB0E1EBB27",
+        "title": "Train deep learning models",
+        "createdAt": "2026-03-24 10:43:02.934000+00:00",
+        "order": 8,
+        "updatedAt": "2026-03-24 10:43:02.934000+00:00",
+        "platform": "Microsoft",
+        "id": "vAUKmXaekiDMfh7tkiNT"
+    },
+    {
+        "description": "Train and evaluate deep learning models in Lab ",
+        "badgeImage": "https://learn.microsoft.com/training/achievements/train-and-evaluate-deep-learning-models.svg",
+        "link": "https://learn.microsoft.com/api/achievements/share/en-us/SatyamChandra-3531/CYSFVTZ9?sharingId=BA2881BB0E1EBB27",
+        "title": "Train and evaluate deep learning models",
+        "createdAt": "2026-03-24 10:16:50.749000+00:00",
+        "order": 5,
+        "updatedAt": "2026-03-24 10:16:50.749000+00:00",
+        "platform": "Microsoft",
+        "id": "vii0eiI2BDC46faIad2p"
+    },
+    {
+        "description": "I've discovered and signed up a Google Developer Group account",
+        "badgeImage": "https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg",
+        "link": "https://developers.google.com/profile/badges/community/gdg/discovery",
+        "title": "Google Developer Group discovery",
+        "createdAt": "2026-03-29 17:45:21.794000+00:00",
+        "order": 17,
+        "updatedAt": "2026-03-29 17:45:21.794000+00:00",
+        "platform": "Google",
+        "id": "wft2k7B5xkLY8PqS0Az4"
+    },
+    {
+        "imageUrl": "",
+        "description": "Answered discussions.",
+        "badgeImage": "https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png",
+        "link": "https://github.com/users/C0DER-B0T/achievements/galaxy-brain",
+        "title": "Galaxy Brain",
+        "color": "#00f0ff",
+        "updatedAt": "2026-03-08 12:19:31.289000+00:00",
+        "platform": "GitHub",
+        "order": 1,
+        "id": "zP00xoS4djJtvPcUFEmS"
+    }
+]
